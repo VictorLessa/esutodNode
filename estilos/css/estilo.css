@@ -1,0 +1,27 @@
+.form{
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;
+
+}
+small{
+	color: orange;
+	font-weight: 700;
+
+}
+form{
+	padding: 50px;
+	background-color: gray;
+	border-radius: 5px;
+}
+
+p{
+	margin-top: 150px;
+	text-align: center;
+	width : 500px;
+	font-size: .8rem;
+}
